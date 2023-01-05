@@ -1,0 +1,4 @@
+[submodule "Integrated-Path/bi_print_journal_entries"]
+	path = Integrated-Path/bi_print_journal_entries
+	url = git@github.com:Integrated-Path/bi_print_journal_entries.git
+	branch = master
