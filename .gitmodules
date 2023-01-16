@@ -7,3 +7,8 @@
 	path = Integrated-Path/invoice_summary_report
 	url = git@github.com:Integrated-Path/invoice_summary_report.git
 	branch = 15.0
+
+[submodule "Integrated-Path/add_account_receive_invoice"]
+	path = Integrated-Path/add_account_receive_invoice
+	url = git@github.com:Integrated-Path/add_account_receive_invoice.git
+	branch = master
