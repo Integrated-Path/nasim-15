@@ -2,3 +2,8 @@
 	path = Integrated-Path/bi_print_journal_entries
 	url = git@github.com:Integrated-Path/bi_print_journal_entries.git
 	branch = master
+
+[submodule "Integrated-Path/invoice_summary_report"]
+	path = Integrated-Path/invoice_summary_report
+	url = git@github.com:Integrated-Path/invoice_summary_report.git
+	branch = 15.0
