@@ -12,3 +12,8 @@
 	path = Integrated-Path/add_account_receive_invoice
 	url = git@github.com:Integrated-Path/add_account_receive_invoice.git
 	branch = master
+
+[submodule "Integrated-Path/naseem_warth"]
+	path = Integrated-Path/naseem_warth
+	url = git@github.com:Integrated-Path/naseem_warth.git
+	branch = master
