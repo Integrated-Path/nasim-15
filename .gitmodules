@@ -17,3 +17,8 @@
 	path = Integrated-Path/naseem_warth
 	url = git@github.com:Integrated-Path/naseem_warth.git
 	branch = master
+
+[submodule "Integrated-Path/product_movement_report"]
+	path = Integrated-Path/product_movement_report
+	url = git@github.com:Integrated-Path/product_movement_report.git
+	branch = master
