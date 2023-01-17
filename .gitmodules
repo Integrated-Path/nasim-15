@@ -22,3 +22,8 @@
 	path = Integrated-Path/product_movement_report
 	url = git@github.com:Integrated-Path/product_movement_report.git
 	branch = master
+
+[submodule "Integrated-Path/payment_journal_receipt"]
+	path = Integrated-Path/payment_journal_receipt
+	url = git@github.com:Integrated-Path/payment_journal_receipt.git
+	branch = master
