@@ -32,3 +32,8 @@
 	path = Integrated-Path/expense_report_journal
 	url = git@github.com:Integrated-Path/expense_report_journal.git
 	branch = master
+
+[submodule "Integrated-Path/account_customisations"]
+	path = Integrated-Path/account_customisations
+	url = git@github.com:Integrated-Path/account_customisations.git
+	branch = master
