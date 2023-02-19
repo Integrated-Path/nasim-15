@@ -37,3 +37,8 @@
 	path = Integrated-Path/account_customisations
 	url = git@github.com:Integrated-Path/account_customisations.git
 	branch = master
+
+[submodule "Integrated-Path/report_stock_inventory"]
+	path = Integrated-Path/report_stock_inventory
+	url = git@github.com:Integrated-Path/report_stock_inventory.git
+	branch = 15.0
