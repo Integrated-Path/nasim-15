@@ -42,3 +42,8 @@
 	path = Integrated-Path/report_stock_inventory
 	url = git@github.com:Integrated-Path/report_stock_inventory.git
 	branch = 15.0
+
+[submodule "Integrated-Path/stock_field"]
+	path = Integrated-Path/stock_field
+	url = git@github.com:Integrated-Path/stock_field.git
+	branch = master
