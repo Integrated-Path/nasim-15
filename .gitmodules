@@ -47,3 +47,8 @@
 	path = Integrated-Path/stock_field
 	url = git@github.com:Integrated-Path/stock_field.git
 	branch = master
+
+[submodule "Integrated-Path/report_xlsx"]
+	path = Integrated-Path/report_xlsx
+	url = git@github.com:Integrated-Path/report_xlsx.git
+	branch = 15.0
