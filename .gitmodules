@@ -52,3 +52,8 @@
 	path = Integrated-Path/report_xlsx
 	url = git@github.com:Integrated-Path/report_xlsx.git
 	branch = 15.0
+
+[submodule "Integrated-Path/restrict_quantity"]
+	path = Integrated-Path/restrict_quantity
+	url = git@github.com:Integrated-Path/restrict_quantity.git
+	branch = master
