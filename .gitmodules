@@ -62,3 +62,8 @@
 	path = Integrated-Path/transfer_approval
 	url = git@github.com:Integrated-Path/transfer_approval.git
 	branch = master
+
+[submodule "Integrated-Path/dev_user_location_access"]
+	path = Integrated-Path/dev_user_location_access
+	url = git@github.com:Integrated-Path/dev_user_location_access.git
+	branch = master
