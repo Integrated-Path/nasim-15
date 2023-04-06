@@ -57,3 +57,8 @@
 	path = Integrated-Path/restrict_quantity
 	url = git@github.com:Integrated-Path/restrict_quantity.git
 	branch = master
+
+[submodule "Integrated-Path/od_creditnote_notif"]
+	path = Integrated-Path/od_creditnote_notif
+	url = git@github.com:Integrated-Path/od_creditnote_notif.git
+	branch = master
