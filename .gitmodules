@@ -67,3 +67,8 @@
 	path = Integrated-Path/dev_user_location_access
 	url = git@github.com:Integrated-Path/dev_user_location_access.git
 	branch = master
+
+[submodule "Integrated-Path/od_creditnote_notif"]
+	path = Integrated-Path/od_creditnote_notif
+	url = git@github.com:Integrated-Path/od_creditnote_notif.git
+	branch = master
