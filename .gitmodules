@@ -62,3 +62,8 @@
 	path = Integrated-Path/od_creditnote_notif
 	url = git@github.com:Integrated-Path/od_creditnote_notif.git
 	branch = master
+
+[submodule "Integrated-Path/transfer_approval"]
+	path = Integrated-Path/transfer_approval
+	url = git@github.com:Integrated-Path/transfer_approval.git
+	branch = master
