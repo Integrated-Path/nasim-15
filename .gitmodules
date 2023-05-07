@@ -72,3 +72,8 @@
 	path = Integrated-Path/od_creditnote_notif
 	url = git@github.com:Integrated-Path/od_creditnote_notif.git
 	branch = master
+
+[submodule "Integrated-Path/inventory_validation"]
+	path = Integrated-Path/inventory_validation
+	url = git@github.com:Integrated-Path/inventory_validation.git
+	branch = master
