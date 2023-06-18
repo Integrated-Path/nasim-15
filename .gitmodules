@@ -67,3 +67,8 @@
 	path = Integrated-Path/transfer_approval
 	url = git@github.com:Integrated-Path/transfer_approval.git
 	branch = master
+
+[submodule "Integrated-Path/inventory_validation"]
+	path = Integrated-Path/inventory_validation
+	url = git@github.com:Integrated-Path/inventory_validation.git
+	branch = master
