@@ -72,3 +72,8 @@
 	path = Integrated-Path/inventory_validation
 	url = git@github.com:Integrated-Path/inventory_validation.git
 	branch = master
+
+[submodule "Integrated-Path/pos_user_restrict"]
+	path = Integrated-Path/pos_user_restrict
+	url = git@github.com:Integrated-Path/pos_user_restrict.git
+	branch = master
