@@ -77,3 +77,8 @@
 	path = Integrated-Path/pos_user_restrict
 	url = git@github.com:Integrated-Path/pos_user_restrict.git
 	branch = master
+
+[submodule "Integrated-Path/od_lot_extend"]
+	path = Integrated-Path/od_lot_extend
+	url = git@github.com:Integrated-Path/od_lot_extend.git
+	branch = master
