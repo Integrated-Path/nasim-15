@@ -82,3 +82,8 @@
 	path = Integrated-Path/od_lot_extend
 	url = git@github.com:Integrated-Path/od_lot_extend.git
 	branch = master
+
+[submodule "Integrated-Path/import_lot_serial_no"]
+	path = Integrated-Path/import_lot_serial_no
+	url = git@github.com:Integrated-Path/import_lot_serial_no.git
+	branch = master
